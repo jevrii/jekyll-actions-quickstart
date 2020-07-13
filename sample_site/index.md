@@ -18,6 +18,8 @@ This project serves the following purposes:
 
 test
 
+test2
+
 ### Information
 
 - [About Actions]({% link about.md %}) page - that describes what you can do using Actions on Github Pages.
